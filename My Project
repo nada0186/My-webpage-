@@ -1,0 +1,18 @@
+<table border="2">
+  <tr>
+    <th>Name</th>
+        <th>Phone</th>
+        <th>Picture</th>
+</tr>
+  <tr>
+    <td>First</td>
+        <td>1111</td>
+        <td><img src="mos1.jpeg" width="150" helght="139" alt="Mos1 picture"> </td>
+</tr>
+  </tr>
+  <tr>
+    <td>Second</td>
+        <td>2222</td>
+        <td><img src="mos2.jpeg" width="150" helght="139" alt="Mos2 picture"> </td>
+</tr>
+</table>
